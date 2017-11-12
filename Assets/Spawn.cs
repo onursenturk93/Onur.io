@@ -8,6 +8,8 @@ public class Spawn : MonoBehaviour {
 	public GameObject sari;
 	public GameObject kirmizi;
 	public GameObject yesil;
+	public GameObject duvar;
+	public GameObject bonus_hiz;
 	public float minx = 0;
 	public float miny=0;
 	public float maxx=10;
